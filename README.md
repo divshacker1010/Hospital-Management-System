@@ -1,6 +1,6 @@
 # Hospital-Management-System 
 
-Hospital Management System usingusing MySQL, Python and CSS
+Hospital Management System using MySQL, Python and CSS
 
 # Need to work on
 1.User should not be allowed to register if he/she tries to provide the already registered email ID.  

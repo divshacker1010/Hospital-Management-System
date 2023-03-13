@@ -8,7 +8,7 @@ Hospital Management System usingusing MySQL, Python and CSS
 3.Addition of more details on payment - such as date of the payment made, amount paid, etc.
 
 # Prerequisites
-1.Install XAMPP web server
+1.Install XAMPP web server \n
 2.Any Editor
 
 # Languages and Technologies used
